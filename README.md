@@ -1,4 +1,7 @@
 # Project-Unsupervised-Learning-Uber-hot-zones
+
+## Hot zone map :
+
 Uber wants to recommend **hot-zones** to drivers: geographical areas where demand is likely to be high at a given time.
 
 <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/a36c7205-ffbc-4507-a557-88c111d3e4b6" />
